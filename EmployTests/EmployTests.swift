@@ -1,10 +1,3 @@
-//
-//  EmployTests.swift
-//  EmployTests
-//
-//  Created by Mohsen Rezania on 1/12/24.
-//
-
 import XCTest
 @testable import Employ
 

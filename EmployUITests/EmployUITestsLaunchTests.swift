@@ -1,10 +1,3 @@
-//
-//  EmployUITestsLaunchTests.swift
-//  EmployUITests
-//
-//  Created by Mohsen Rezania on 1/12/24.
-//
-
 import XCTest
 
 final class EmployUITestsLaunchTests: XCTestCase {
